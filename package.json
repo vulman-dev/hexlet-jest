@@ -1,0 +1,12 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
